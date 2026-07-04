@@ -83,7 +83,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Radius: ",
+                Text = "半徑: ",
             };
             TextBox settingDistanceRingsRadius1_TextBox = new TextBox() {
                 Location = new Point(settingDistanceRingsRadius1_Label.Right, settingDistanceRingsEnable1.Top - 6),
@@ -115,7 +115,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Opacity: ",
+                Text = "透明度: ",
             };
             TrackBar settingDistanceRingsOpacity1_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsOpacity1_Label.Right + 8, settingDistanceRingsOpacity1_Label.Top),
@@ -144,7 +144,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Radius: ",
+                Text = "半徑: ",
             };
             TextBox settingDistanceRingsRadius2_TextBox = new TextBox() {
                 Location = new Point(settingDistanceRingsRadius2_Label.Right, settingDistanceRingsEnable2.Top - 6),
@@ -176,7 +176,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Opacity: ",
+                Text = "透明度: ",
             };
             TrackBar settingDistanceRingsOpacity2_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsOpacity2_Label.Right + 8, settingDistanceRingsOpacity2_Label.Top),
@@ -205,7 +205,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Radius: ",
+                Text = "半徑: ",
             };
             TextBox settingDistanceRingsRadius3_TextBox = new TextBox() {
                 Location = new Point(settingDistanceRingsRadius3_Label.Right, settingDistanceRingsEnable3.Top - 6),
@@ -237,7 +237,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Opacity: ",
+                Text = "透明度: ",
             };
             TrackBar settingDistanceRingsOpacity3_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsOpacity3_Label.Right + 8, settingDistanceRingsOpacity3_Label.Top),
@@ -266,7 +266,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Radius: ",
+                Text = "半徑: ",
             };
             TextBox settingDistanceRingsRadius4_TextBox = new TextBox() {
                 Location = new Point(settingDistanceRingsRadius4_Label.Right, settingDistanceRingsEnable4.Top - 6),
@@ -298,7 +298,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Opacity: ",
+                Text = "透明度: ",
             };
             TrackBar settingDistanceRingsOpacity4_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsOpacity4_Label.Right + 8, settingDistanceRingsOpacity4_Label.Top),
@@ -327,7 +327,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Radius: ",
+                Text = "半徑: ",
             };
             TextBox settingDistanceRingsRadius5_TextBox = new TextBox() {
                 Location = new Point(settingDistanceRingsRadius5_Label.Right, settingDistanceRingsEnable5.Top - 6),
@@ -359,7 +359,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Opacity: ",
+                Text = "透明度: ",
             };
             TrackBar settingDistanceRingsOpacity5_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsOpacity5_Label.Right + 8, settingDistanceRingsOpacity5_Label.Top),
@@ -379,7 +379,7 @@ namespace Manlaan.DistanceRings.Views
                 AutoSizeHeight = false,
                 WrapText = false,
                 Parent = parentPanel,
-                Text = "Vertical Offset: ",
+                Text = "垂直偏移: ",
             };
             TrackBar settingDistanceRingsVerticalOffset_Slider = new TrackBar() {
                 Location = new Point(settingDistanceRingsVerticalOffset_Label.Right + 8, settingDistanceRingsVerticalOffset_Label.Top),
